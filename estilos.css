@@ -12,6 +12,9 @@ background:#99B4BF;
   border-radius: 7px
 }
 .contenedor_input{
+  padding: 5px 10px;
+  display:flex;
+  justify-content: space-between;
  text-align: center;
   
 }
