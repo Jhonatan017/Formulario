@@ -31,11 +31,7 @@ background:#99B4BF;
 }
 .Tabla_Botones{
   text-align:center;
-  border: 1px solid darkgray;
-  
-}
-.input-50{
-width: 100%;  
+  border: 1px solid darkgray; 
 }
 .btn_Registrarse{
  background: #04DB04;
