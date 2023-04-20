@@ -29,3 +29,11 @@ background:#99B4BF;
   border-top-right-radius: 7px;
   border-bottom: 10px solid crimson;
 }
+.Tabla_Botones{
+  text-align:center;
+  border: 1px solid darkgray;
+  
+}
+.input-50{
+width: 50%;  
+}
