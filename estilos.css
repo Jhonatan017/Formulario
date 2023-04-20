@@ -37,3 +37,16 @@ background:#99B4BF;
 .input-50{
 width: 50%;  
 }
+.btn_Registrarse{
+ background: #04DB04;
+ color:#fff;
+  margin: auto;
+  padding: 10px  40px;
+  cursor: pointer;
+  border-radius:7px;
+}
+.btn_Registrarse:active{
+transform: scale (1.05);
+}
+
+
