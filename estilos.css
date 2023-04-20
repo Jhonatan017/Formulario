@@ -1,14 +1,14 @@
 body{
   margin: 0;
   font-family: sans-serif;
-  background:#253C59;  
+  background:#2D4B73;  
 }
 
 .form_clientes{
 width: 60%;
 max-width: 500px;
 margin: auto;
-background:#2D4B73;
+background:#99B4BF;
   border-radius: 7px
 }
 .contenedor_input{
@@ -16,7 +16,7 @@ background:#2D4B73;
   
 }
 .titulo_for_clientes{
- Background:#99B4BF;
+ Background:#3F7C85;
  color:#0F6794;
   padding: 8px;
    text-align: center;
