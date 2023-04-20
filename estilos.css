@@ -1,14 +1,14 @@
 body{
   margin: 0;
   font-family: sans-serif;
-  background:#2D4B73;  
+  background:#253C59;  
 }
 
 .form_clientes{
 width: 60%;
 max-width: 500px;
 margin: auto;
-background:#253C59;
+background:#2D4B73;
   border-radius: 7px
 }
 .contenedor_input{
