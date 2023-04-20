@@ -3,3 +3,11 @@ body{
   font-family: sans-serif;
   background:#FFD742;  
 }
+
+.form_clientes{
+width: 60%;
+max-width: 500px;
+margin: auto;
+background:#3251FC;
+  border-radius: 7px
+}
