@@ -8,7 +8,7 @@ body{
 width: 60%;
 max-width: 500px;
 margin: auto;
-background:#0B98E0;
+background:#05C7F2;
   border-radius: 7px
 }
 .contenedor_input{
@@ -16,7 +16,7 @@ background:#0B98E0;
   
 }
 .titulo_for_clientes{
- Background:#450F94;
+ Background:#85D932;
  color:#0F6794;
   padding: 8px;
    text-align: center;
