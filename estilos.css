@@ -33,7 +33,7 @@ background:#99B4BF;
   text-align:center;
   border: 1px solid darkgray; 
 }
-.btn_colsultar{
+.btn_Actualizar{
  background: #04DB04;
  color:#fff;
   margin: auto;
@@ -41,6 +41,6 @@ background:#99B4BF;
   cursor: pointer;
   border-radius:7px;
 }
-.btn_Registrarse:active{
+.btn_Consultar:active{
 transform: scale (1.05);
 }
