@@ -11,14 +11,14 @@ margin: auto;
 background:#99B4BF;
   border-radius: 7px
 }
-.contenedor_input{
+.contenedor_paquete{
   padding: 5px 10px;
   display:flex;
   justify-content: space-between;
  text-align: center;
   
 }
-.titulo_for_clientes{
+.titulo_paquete{
  Background:#209db0;
  color:#0F6794;
   padding: 8px;
@@ -33,7 +33,7 @@ background:#99B4BF;
   text-align:center;
   border: 1px solid darkgray; 
 }
-.btn_Registrarse{
+.btn_colsultar{
  background: #04DB04;
  color:#fff;
   margin: auto;
