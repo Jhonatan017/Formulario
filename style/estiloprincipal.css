@@ -19,8 +19,9 @@
 }
 .titulo_cabecera{
  position: absolute;
- top: 40px;
- left: 200px; 
+ top: 40px; 
+  left: 50%;
+  text-align: center;
 }
 .menu{
  margin: 10px 10px 0 0;
