@@ -20,8 +20,7 @@
 .titulo_cabecera{
  position: absolute;
  top: 40px; 
-  left: 50px;
-  transform: translateX(-50%);
+  left: 40px;
   text-align: center;
   .slogan_cabecera{
   position: absolute;
