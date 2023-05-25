@@ -23,6 +23,21 @@
  left: 150px; 
 right: 150px;
 }
+.menu{
+ margin: 10px 10px 0 0;
+ position: unset;
+ backgroud: none;
+ height:unset;
+ border: none;
+}
+
+.link{
+  background: #0D035B;
+  color: white;
+  padding: 5px;
+  border-radius: 3px;
+}
+
 
 
 
