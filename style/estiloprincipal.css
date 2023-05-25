@@ -1,1 +1,21 @@
+.contenedor {
+  border: solid 1px black;
+  width: 100%;
+  max-width: 1000px;
+  margin: auto;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+.cabecera{
+  display: flex;
+  justify-content: space-between;
+  postion: relative;
+  height: 220px; 
+}
+
+.cabecera img{
+  width: 100px;
+}
+
 
