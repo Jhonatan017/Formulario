@@ -25,7 +25,7 @@
   }
   .slogan_cabecera{
   position: absolute;
-  top: 80px;
+  top: 90px;
   left: 600px;
 }
 .menu{
@@ -36,7 +36,7 @@
  border: none;
 }
 .link{
-  background:#00FF00;
+  background:#0996D9;
   color:white;
   padding: 5px;
   border-radius: 3px;
