@@ -19,10 +19,14 @@
 }
 .titulo_cabecera{
  position: absolute;
- top: 40px; 
+ top: 100px; 
   left: 50px;
   transform: translateX(-50%);
   text-align: center;
+  .slogan_cabecera{
+  position: absolute;
+  top: 90px;
+  left: 235px;
 }
 .menu{
  margin: 10px 10px 0 0;
