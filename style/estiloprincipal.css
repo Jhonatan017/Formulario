@@ -49,6 +49,10 @@
   justify-content: center;
   align-items: center;
 }
+.lienzo_galeria{
+  width: 600px;
+  height: 350px;
+  overflow: hidden;
 
 
 
