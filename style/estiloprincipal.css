@@ -54,6 +54,12 @@
   height: 350px;
   overflow: hidden;
   }
+.galeria_contenedor{
+  display: flex;
+  width: 7000px;
+  height: 50px;
+  transition: transform 1s ease-in;
+  will-change: transform;
   .elemento1:checked ~ .galeria_contenedor{
   transform: translatex(0px);
 }
