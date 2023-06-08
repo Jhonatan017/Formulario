@@ -53,15 +53,15 @@
   width: 600px;
   height: 350px;
   overflow: hidden;
-  .elemento1:checked ~ .lienzo_contenedor{
+  .elemento1:checked ~ .galeria_contenedor{
   transform: translatex(0px);
 }
 
-.elemento2:checked ~ .lienzo_contenedor{
+.elemento2:checked ~ .galeria_contenedor{
   transform: translatex(-700px);
 }
 
-.elemento3:checked ~ .lienzo_contenedor{
+.elemento3:checked ~ .galeria_contenedor{
   transform: translatex(-1400px);
 }
 .controles{
