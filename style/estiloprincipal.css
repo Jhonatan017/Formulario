@@ -98,6 +98,18 @@
   width: 100%;
   height: auto;
 }
+.tienda article {
+  display: flex;
+  justify-content: center;
+  align-content: space-between;
+  flex-flow: wrap;
+  border: solid;
+  border-radius: 15px;
+  overflow:hidden;
+}
+
+
+
   
 
 
