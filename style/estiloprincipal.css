@@ -53,6 +53,7 @@
   width: 600px;
   height: 350px;
   overflow: hidden;
+  }
   .elemento1:checked ~ .galeria_contenedor{
   transform: translatex(0px);
 }
