@@ -13,10 +13,6 @@ background:#99B4BF;
 }
 .contenedor_input{
   padding: 5px 10px;
-  display:flex;
-  justify-content: space-between;
- text-align: center;
-  
 }
 .titulo_for_clientes{
  background:#209db0;
@@ -34,9 +30,9 @@ background:#99B4BF;
   border: 1px solid darkgray; 
 }
 .btn_Registrarse{
- background: #04DB04;
+ background:#04DB04;
  color:#fff;
-  margin: auto;
+  margin:auto;
   padding: 10px  40px;
   cursor: pointer;
   border-radius:7px;
