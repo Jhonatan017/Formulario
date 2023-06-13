@@ -112,7 +112,7 @@
   height: 20px;
 }
 
-.pie_de_pagina{
+.piedepagina{
   display: flex;
   justify-content:center;
   position: relative;
@@ -120,7 +120,9 @@
   background: -moz-linear-gradient(left, rgba(164,179,87,1) 0%, rgba(168,197,158,1) 39%, rgba(171,208,200,1) 62%, rgba(173,217,235,1) 81%, rgba(173,217,235,1) 98%, rgba(117,137,12,1) 100%);
   align-content: center;
 }
-
+.piedepagina footer {
+  text-align:center;
+  color:black;
 
 
 
