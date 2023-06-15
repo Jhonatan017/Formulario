@@ -7,9 +7,9 @@ body{
 .form_paquete{
 width: 60%;
 max-width: 500px;
-margin: auto;
+margin:auto;
 background:#99B4BF;
-  border-radius: 7px
+  border-radius:7px
 }
 .contenedor_paquete{
   padding: 5px 10px;
