@@ -14,6 +14,11 @@ background:#99B4BF;
 .contenedor_input{
  text-align:center;  
 }
+.tabla_paquete{
+  text-align: left;
+  border:1px solid darkgraw;
+  width:100%;
+  }
 .titulo_paquete{
  Background:#209db0;
  color:#0F6794;
