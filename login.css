@@ -1,0 +1,77 @@
+body{
+  margin: 0;
+  font-family: sans-serif;
+  background:#00FFFF;  
+}
+
+.form_inicio_sesion{
+  width:60%;
+  max-width:500px;
+  margin:auto;
+  background:#FFFF00;
+  border-radius:7px;
+}
+
+
+.contenedor_input{
+  text-align:center;
+}
+
+
+.titulo_form_clientes{
+  background:#0000FF;
+  color:#C0C0C0;
+  padding: 8px;
+  text-align:center;
+  font-weight:100px;
+  font-zise: 30px;
+  border-top-left-radius: 7px;
+  border-top-right-radius: 7px;
+  border-bottom: 10px solid crimson;
+}
+
+.tabla_Sesion{
+  text-align: left;
+  border:1px solid darkgray;
+  width:100%;
+}
+
+.tabla_botones{
+ text-align: center;
+ border:1px solid darkgray;
+}
+
+.input -50{
+ width :50%;
+}
+
+.btn_Registrar{
+  background:#188837;
+  color:#fff;
+ margin:auto;
+  padding: 10px 40px;
+  cursor:pointer;
+  border-radius:7px;
+ display:block;
+ margin-right:auto;
+ margin-left:auto;
+}
+
+.btn_Registrar:active{
+ transform:scale(1.05);
+}
+
+.btn_Ingresar{
+  background:#188837;
+  color:#fff;
+ margin:auto;
+  padding: 10px 40px;
+  cursor:pointer;
+  border-radius:7px;
+ display:block;
+ margin-right:auto;
+ margin-left:auto;
+}
+.btn_Ingresar:active{
+ transform:scale(1.05);
+}
