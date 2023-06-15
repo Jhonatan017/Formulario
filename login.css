@@ -20,7 +20,7 @@ body{
 
 .nom_usuario{
   background:#99B4BF;
-  color:#C0C0C0;
+  color:#99B4BF;
   padding: 8px;
   text-align:center;
   font-weight:100px;
@@ -30,7 +30,7 @@ body{
   border-bottom: 10px solid crimson;
 }
 
-.tabla_Sesion{
+.tabla_sesion{
   text-align: left;
   border:1px solid darkgray;
   width:100%;
