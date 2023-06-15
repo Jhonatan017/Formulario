@@ -45,7 +45,7 @@ body{
  width :50%;
 }
 
-.btn_Registrar{
+.boton_Registrar{
   background:#00ff40;
   color:#fff;
  margin:auto;
@@ -57,11 +57,11 @@ body{
  margin-left:auto;
 }
 
-.btn_Registrar:active{
+.boton_Registrar:active{
  transform:scale(1.05);
 }
 
-.btn_Ingresar{
+.boton_Registrar{
   background:#188837;
   color:#fff;
  margin:auto;
@@ -72,7 +72,7 @@ body{
  margin-right:auto;
  margin-left:auto;
 }
-.btn_Ingresar:active{
+.boton_Ingresar:active{
  transform:scale(1.05);
 }
 
