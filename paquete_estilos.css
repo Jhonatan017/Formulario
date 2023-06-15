@@ -37,6 +37,34 @@ background:#99B4BF;
   cursor: pointer;
   border-radius:7px;
 }
+.btn_Actualizar:active{
+transform: scale (1.05);
+}
+.btn_Consultar{
+ background: #04DB04;
+ color:#fff;
+  margin: auto;
+  padding: 10px  40px;
+  cursor: pointer;
+  border-radius:7px;
+}
 .btn_Consultar:active{
 transform: scale (1.05);
 }
+.btn_Seleccionar{
+ background: #04DB04;
+ color:#fff;
+  margin: auto;
+  padding: 10px  40px;
+  cursor: pointer;
+  border-radius:7px;
+}
+.btn_Seleccionar:active{
+transform: scale (1.05);
+}
+  
+
+
+
+
+  
