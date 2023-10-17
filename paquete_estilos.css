@@ -4,7 +4,7 @@ font-family: sans-serif;
 background:#2D4B73;  
 }
 
-.form_paquete{
+.form_Paquete{
 width: 60%;
 max-width: 500px;
 margin: auto;
@@ -23,30 +23,29 @@ border-radius:7px;
   font-size: 30px;
   border-top-left-radius: 7px;
   border-top-right-radius: 7px;
-  border-bottom: 10px solid crimson;
 }
 .tabla_paquete{
   text-align: left;
   border:1px solid darkgraw;
   width:100%;
 }
-.tabla_botones{
+.Tabla_botones{
   text-align:center;
   border: 1px solid darkgray; 
 }
-.btn_Actualizar{
- background:#00ff40;
- color:#fff;
+.Boton_Guardar{
+ background:#eeb627;
+ color:rgb(221, 42, 42);
   margin:auto;
   padding: 10px  40px;
   cursor: pointer;
   border-radius:7px;
 }
-.btn_Actualizar:active{
+.Boton_Guardar:active{
 transform:scale(1.05);
 }
-.btn_Consultar{
-  background:#00ff40;
+.Boton_Listar{
+  background:#eeb627;
   color:#fff;
  margin:auto;
   padding: 10px 40px;
@@ -56,24 +55,8 @@ transform:scale(1.05);
  margin-right:auto;
  margin-left:auto;
 }
-.btn_Consultar:active{
+.Boton_Listar:active{
  transform:scale(1.05);
 }
-.btn_Seleccionar{
-  background:#00ff40;
-  color:#fff;
- margin:auto;
-  padding: 10px 40px;
-  cursor:pointer;
-  border-radius:7px;
- display:block;
- margin-right:auto;
- margin-left:auto;
-}
-.btn_Seleccionar:active{
- transform:scale(1.05);
-}
-
-
 
   
