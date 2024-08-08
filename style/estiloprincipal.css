@@ -10,8 +10,9 @@
 .cabecera{
   display: flex;
   justify-content: space-between;
-  postion: relative;
+  postion: fixed;
   height: 200px; 
+  background-color: blue;
 }
 
 .cabecera img{
